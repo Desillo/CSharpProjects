@@ -1,0 +1,12 @@
+E:\Visual Studio\Match3\Match3game\Match3game\bin\Debug\Match3game.exe.config
+E:\Visual Studio\Match3\Match3game\Match3game\bin\Debug\Match3game.exe
+E:\Visual Studio\Match3\Match3game\Match3game\bin\Debug\Match3game.pdb
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.csproj.AssemblyReference.cache
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.Form1.resources
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.Properties.Resources.resources
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.csproj.GenerateResource.cache
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.exe
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.pdb
+E:\Visual Studio\Match3\Match3game\Match3game\obj\Debug\Match3game.Form2.resources
