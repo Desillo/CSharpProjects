@@ -1,0 +1,17 @@
+E:\dotnet\IpCountApp\bin\Debug\net6.0\IpCountApp.exe
+E:\dotnet\IpCountApp\bin\Debug\net6.0\IpCountApp.deps.json
+E:\dotnet\IpCountApp\bin\Debug\net6.0\IpCountApp.runtimeconfig.json
+E:\dotnet\IpCountApp\bin\Debug\net6.0\IpCountApp.dll
+E:\dotnet\IpCountApp\bin\Debug\net6.0\IpCountApp.pdb
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.csproj.AssemblyReference.cache
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.AssemblyInfoInputs.cache
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.AssemblyInfo.cs
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.csproj.CoreCompileInputs.cache
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.dll
+E:\dotnet\IpCountApp\obj\Debug\net6.0\refint\IpCountApp.dll
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.pdb
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.genruntimeconfig.cache
+E:\dotnet\IpCountApp\obj\Debug\net6.0\ref\IpCountApp.dll
+E:\dotnet\IpCountApp\bin\Debug\net6.0\CommandLine.dll
+E:\dotnet\IpCountApp\obj\Debug\net6.0\IpCountApp.csproj.CopyComplete
